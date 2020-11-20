@@ -1,0 +1,11 @@
+{
+    "version": 2,
+    "name": "ryusei.dev",
+    "alias": "ryusei.dev",
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://mandel59.github.io/"
+        }
+    ]
+}
