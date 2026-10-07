@@ -1,0 +1,15 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "ryusei-dev",
+  "compatibility_date": "2026-10-07",
+  "workers_dev": false,
+  "assets": {
+    "directory": "./public"
+  },
+  "routes": [
+    {
+      "pattern": "ryusei.dev",
+      "custom_domain": true
+    }
+  ]
+}
